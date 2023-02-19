@@ -1,11 +1,11 @@
 # API-SentimentAnalysis
 
-##1. Objective
+## 1. Objective
 1. Performing benchmark study of NN and LSTM
 2. Performing EDA to gain insights from the dataset
 3. Constructing API for predicting sentiment automatically
 
-##2. Methodology
+## 2. Methodology
 ### a. System Requirement
 - Pandas and RegEx, Sastrawi, and NLTK for cleaning data
 - FLASK and SWAGER UI for API
